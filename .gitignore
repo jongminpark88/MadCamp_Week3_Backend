@@ -1,0 +1,8 @@
+week3/bin/
+week3/include/
+week3/lib/
+week3/lib64/
+week3/share/
+week3/pyvenv.cfg
+__pycache__/
+*.pyc
